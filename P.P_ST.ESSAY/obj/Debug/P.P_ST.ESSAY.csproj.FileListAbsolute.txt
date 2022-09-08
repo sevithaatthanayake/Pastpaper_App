@@ -1,0 +1,14 @@
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\bin\Debug\P.P_ST.ESSAY.exe.config
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\bin\Debug\P.P_ST.ESSAY.exe
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\bin\Debug\P.P_ST.ESSAY.pdb
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Form1.resources
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Form2.resources
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Properties.Resources.resources
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.csproj.GenerateResource.Cache
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.exe
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.pdb
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Form3.resources
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Form4.resources
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Form5.resources
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Form6.resources
+C:\Users\Isuru\Desktop\AL.PP.C#\P.P_ST.ESSAY\P.P_ST.ESSAY\obj\Debug\P.P_ST.ESSAY.Form7.resources
